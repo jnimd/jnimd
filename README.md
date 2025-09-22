@@ -8,7 +8,7 @@ Email Me 👉 ✉️ **https://jnimd.github.io/Glitch-X/** For Collaboration/Pro
 - 👯 **I’m looking to collaborate on:** Any **beginner-friendly open source projects**, especially those related to **small web utilities or accessibility tools**. Let’s code together!
 - 🤔 **I’m looking for help with:** Understanding the best practices for **deploying a Node.js application using Docker**. Any advice is welcome!
 - 💬 **Ask me about:** **Collaboration**, **Tech Support**, and the eternal debate of **Frontend vs. Backend**.
-- 📫 **How to reach me:** Drop me an email at **your.email@example.com**.
+- 📫 **How to reach me:** Drop me an email at **janithdimuthu7@gmail.com**.
 - 😄 **Pronouns:** jnim (He/Him)
 - ⚡ **Fun fact:** I Love Tech and Tech Love Me - It’s a full-time relationship! 😉
 
