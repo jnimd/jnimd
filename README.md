@@ -3,14 +3,14 @@
 
 Email Me 👉 ✉️ **sdfdfdf.com** For Collaboration/Project or Anything Else. 😊😊
 
-- 🔭 **I’m currently working on:** Enter your project info here
-- 🌱 **I’m currently learning:** Enter your tech here
-- 👯 **I’m looking to collaborate on:** Enter your project name and info
-- 🤔 **I’m looking for help with:** Your project here
-- 💬 **Ask me about:** Collaboration, Tech Support
-- 📫 **How to reach me:** Enter your email here
-- 😄 **Pronouns:** jnim
-- ⚡ **Fun fact:** I Love Tech and Tech Love Me
+- 🔭 **I’m currently working on:** A **personal project** focused on a **simple task-tracking web application** to build my skills in **Express.js and PostgreSQL**.
+- 🌱 **I’m currently learning:** Deep diving into **Python and its Data Science libraries (Pandas/NumPy)** and trying to master **asynchronous programming** concepts.
+- 👯 **I’m looking to collaborate on:** Any **beginner-friendly open source projects**, especially those related to **small web utilities or accessibility tools**. Let’s code together!
+- 🤔 **I’m looking for help with:** Understanding the best practices for **deploying a Node.js application using Docker**. Any advice is welcome!
+- 💬 **Ask me about:** **Collaboration**, **Tech Support**, and the eternal debate of **Frontend vs. Backend**.
+- 📫 **How to reach me:** Drop me an email at **your.email@example.com**.
+- 😄 **Pronouns:** jnim (He/Him)
+- ⚡ **Fun fact:** I Love Tech and Tech Love Me - It’s a full-time relationship! 😉
 
 ## 🌐 Socials:
 [![Discord](https://img.shields.io/badge/Discord-%237289DA.svg?logo=discord&logoColor=white)](https://discord.gg/https://discord.gg/72nQ5ndX) [![Facebook](https://img.shields.io/badge/Facebook-%231877F2.svg?logo=Facebook&logoColor=white)](https://facebook.com/https://www.facebook.com/share/16uVww49i4/) [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/https://www.instagram.com/jnimd7?igsh=MXJ2OGtodHN0bTBnbQ==) [![TikTok](https://img.shields.io/badge/TikTok-%23000000.svg?logo=TikTok&logoColor=white)](https://tiktok.com/@https://www.tiktok.com/@jnimd?_t=ZS-8ytB8dRE3sK&_r=1) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:janithdimuthu7@gmail.com) 
