@@ -1,14 +1,14 @@
 # 💫 Hi 👋, I'm Janith Dimuthu
 **A passionate Software Engineer With AI || **
 
-Email Me 👉 ✉️ **sdfdfdf.com** For Collaboration/Project or Anything Else. 😊😊
+Email Me 👉 ✉️ **https://jnimd.github.io/Glitch-X/** For Collaboration/Project or Anything Else. 😊😊
 
 - 🔭 **I’m currently working on:** A **personal project** focused on a **simple task-tracking web application** to build my skills in **Express.js and PostgreSQL**.
 - 🌱 **I’m currently learning:** Deep diving into **Python and its Data Science libraries (Pandas/NumPy)** and trying to master **asynchronous programming** concepts.
 - 👯 **I’m looking to collaborate on:** Any **beginner-friendly open source projects**, especially those related to **small web utilities or accessibility tools**. Let’s code together!
 - 🤔 **I’m looking for help with:** Understanding the best practices for **deploying a Node.js application using Docker**. Any advice is welcome!
 - 💬 **Ask me about:** **Collaboration**, **Tech Support**, and the eternal debate of **Frontend vs. Backend**.
-- 📫 **How to reach me:** Drop me an email at **your.email@example.com**.
+- 📫 **How to reach me:** Drop me an email at **janithdimuthu7@gmail**.
 - 😄 **Pronouns:** jnim (He/Him)
 - ⚡ **Fun fact:** I Love Tech and Tech Love Me - It’s a full-time relationship! 😉
 
